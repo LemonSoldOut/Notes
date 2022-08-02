@@ -1,5 +1,5 @@
 
-```java
+```
 package com.rabbitmq.one;
 
 import com.rabbitmq.client.*;
